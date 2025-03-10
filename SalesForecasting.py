@@ -49,7 +49,7 @@ st.set_page_config(layout="wide", page_title="📈 Advanced Sales Forecasting")
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Colored Title using HTML
-st.markdown("<h1 style='text-align: center;'>🚀 AI-Powered Sales Forecasting Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color:#0c118a;'>🚀 AI-Powered Sales Forecasting Dashboard</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color:#d5e809;'>Analyze historical sales data, understand trends, and forecast future sales using AI models (ARIMA, SARIMA, XGBoost, LSTM).</h3>", unsafe_allow_html=True)
 
 # Upload CSV File
