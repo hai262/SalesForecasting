@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+pmdarima
+prophet
+scikit-learn
+xgboost
+tensorflow
+holidays
