@@ -23,7 +23,7 @@ import holidays
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf  # For ACF & PACF plots
 
 warnings.filterwarnings('ignore')
-
+# make new note
 # -- Custom CSS for Background Image and Colored Text --
 page_bg_img = """
 <style>
